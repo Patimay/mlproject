@@ -10,7 +10,6 @@ This project aims to predict student performance based on various features such 
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Training](#model-training)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
